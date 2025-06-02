@@ -1,0 +1,4 @@
+- só está aumentando o simbolo da fita, falta diminuir
+- falta mudar o cabecote para a esquerda
+- falta ajeitar quando vai para a direita no final da fita (simbolo em branco)
+- falta mudar o estado
