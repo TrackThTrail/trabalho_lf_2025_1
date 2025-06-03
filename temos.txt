@@ -1,0 +1,16 @@
+1 - Busca estado:
+    Limpa se não encontrou estado atual ✅
+    testar quando muda de estado ⚠️
+
+2 - Busca transição:
+    Limpa se não encontrou transição atual ⚠️
+
+3 - Executa Escrita da transição:
+    Escreve quando simbolo lido é maior que simbolo na fita ✅ (aumenta a fita à direita)
+    Escreve quando simbolo lido é menor que simbolo na fita ✅ (reduz a fita à direita)
+
+4 - Move estado após escrita da transição:
+    Atualiza Estado destino quando é igual a estado atual ✅:
+        Limpa a lista de transições ✅
+    Atualiza Estado destino quando é maior que o estado atual ✅: (aumenta 1's à direita do q(no final da fita))
+    Atualiza Estado destino quando é menor que o estado atual ⚠️: (remove 1's à direita do q(no final da fita))
