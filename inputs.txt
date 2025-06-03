@@ -1,4 +1,23 @@
-q1a111a11Rq11#q11a111a11Rqf$a111a111
+q1a111a11Rq11#q11a111a11Rqf$a111
+rejeita estado ->
+aceita estado -> aceita transicao ->
+reduz fita -> aumenta estado
 
 
-q1a111a11Rq11#q11a111a11Rqf$a111a111
+q1a111a11Rq11#q11a111a11Rqf$a111
+rejeita estado ->
+aceita estado -> aceita transicao ->
+reduz fita -> aumenta estado
+
+
+q1a11a111Rq11#q1a111a111Rq11#q11a11a111Rqf$a11
+rejeita estado ->
+aceita estado -> rejeita transicao ->
+aceita estado -> aceita transicao ->
+
+
+q1a11a111Rqf#q1a111a111Rq11#q11a11a111Rqf$a11
+rejeita estado ->
+aceita estado -> rejeita transicao ->
+aceita estado -> aceita transicao ->
+aceita
