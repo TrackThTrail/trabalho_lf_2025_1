@@ -1,8 +1,16 @@
-- falta testar mudar o cabecote para a esquerda
-- falta ajeitar quando vai para a direita no final da fita (simbolo em branco)
-- falta mudar o estado
-
-- falta fechar o ciclo para executar mais passos
-- tratar casos especiais (simbolo b, inicio e final da fita)
+- ao mover cabecote pra direita e nao ter mais simbolo, escreve b
+e se tiver transicao que lê branco? existe?
 
 - ajeitar a fita e imprimir [#A] quando aceita e [#R] quando rejeita
+
+
+
+$a1a1Aq11
+
+verifica se dps do A tem q
+se true, troca pra:
+
+$a1a1bAq11
+
+
+- Se ler b?
