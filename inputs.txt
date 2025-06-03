@@ -21,3 +21,27 @@ rejeita estado ->
 aceita estado -> rejeita transicao ->
 aceita estado -> aceita transicao ->
 aceita
+
+q1a11a111Rq11#q1a111a111Rq11#q11a1a111Rqf$a11a1
+
+Saída esperada: a111a111
+
+rejeita estado ->
+aceita estado -> rejeita transicao ->
+aceita estado -> aceita transicao ->
+muda estado ->
+
+aceita estado -> aceita transicao
+aceita
+
+
+q1a11a111Rq11#q11a1a111Rqf$a11a1
+
+Saída esperada: a111a111
+
+rejeita estado ->
+aceita estado -> aceita transicao ->
+muda estado ->
+
+aceita estado -> aceita transicao
+aceita
