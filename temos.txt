@@ -9,7 +9,11 @@
     Escreve quando simbolo lido é maior que simbolo na fita ✅ (aumenta a fita à direita)
     Escreve quando simbolo lido é menor que simbolo na fita ✅ (reduz a fita à direita)
 
-4 - Move estado após escrita da transição:
+4 - Move o cabeçote na transição:
+    Move para direita ✅
+    Move para esquerda ⚠️ (não testado ainda)
+
+5 - Move estado após escrita da transição:
     Atualiza Estado destino quando é igual a estado atual ✅:
         Limpa a lista de transições ✅
     Atualiza Estado destino quando é maior que o estado atual ✅: (aumenta 1's à direita do q(no final da fita))
