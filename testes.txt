@@ -12,7 +12,7 @@
 
 4 - Compara o simbolo e é menor que o buscado
     Entrada: q1a11a1Rqf#q1a1a1Rqf$a11
-    Resultado: Erro ⚠️ (estado ERRO1)
+    Resultado: Aceito ✅
 
 5 - Move para direita no fim da fita
     Entrada: q1a1a1Rq11#q11a1a1Rqf$a1
