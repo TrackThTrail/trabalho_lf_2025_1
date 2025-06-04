@@ -1,55 +1,8 @@
-q1a111a11Rq11#q11a111a11Rqf$a111
-rejeita estado ->
-aceita estado -> aceita transicao ->
-reduz fita -> aumenta estado
-
-
-q1a111a11Rq11#q11a111a11Rqf$a111
-rejeita estado ->
-aceita estado -> aceita transicao ->
-reduz fita -> aumenta estado
-
-
-q1a11a111Rq11#q1a111a111Rq11#q11a11a111Rqf$a11
-rejeita estado ->
-aceita estado -> rejeita transicao ->
-aceita estado -> aceita transicao ->
-
-
-q1a11a111Rqf#q1a111a111Rq11#q11a11a111Rqf$a11
-rejeita estado ->
-aceita estado -> rejeita transicao ->
-aceita estado -> aceita transicao ->
-aceita
-
-q1a11a111Rq11#q1a111a111Rq11#q11a1a111Rqf$a11a1
-
-Saída esperada: a111a111
-
-rejeita estado ->
-aceita estado -> rejeita transicao ->
-aceita estado -> aceita transicao ->
-muda estado ->
-
-aceita estado -> aceita transicao
-aceita
-
-
-q1a11a111Rq11#q11a1a111Rqf$a11a1
-
-Saída esperada: a111a111
-
-rejeita estado ->
-aceita estado -> aceita transicao ->
-muda estado ->
-
-aceita estado -> aceita transicao
-aceita
-
-
-
-q1a1a1Rq11#q11a1a1Lq111#q111a1a1Rqf$a1a1a1 ✅
-1643 steps
-
-q1a1a1Rq111#q111a1a1Lq11#q11a1a1Rqf$a1a1a1 ✅
-1651 steps
+q1a1a1Rqf#q11a1a1Rqf$a1
+q11a1a1Rqf#q1a1a1Rq11$a1a1
+q1a1a1Rqf#q1a11a1Rqf$a1
+q1a11a1Rqf#q1a1a1Rqf$a11
+q1a1a1Rq11#q11a1a1Rqf$a1
+q1a1a1Lq11#q11a1a1Rqf$a1
+q11a1a1Rqf$a1
+q1a11a1Rqf$a1

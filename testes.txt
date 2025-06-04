@@ -1,0 +1,31 @@
+1 - Busca o estado e é maior que o buscado
+    Entrada: q1a1a1Rqf#q11a1a1Rqf$a1
+    Resultado: Aceito ✅
+
+2 - 1 - Busca o estado e é menor que o buscado
+    Entrada: q11a1a1Rqf#q1a1a1Rq11$a1a1
+    Resultado: Erro ⚠️ (estado ERRO2)
+
+3 - Compara o simbolo e é maior que o buscado
+    Entrada: q1a1a1Rqf#q1a11a1Rqf$a1
+    Resultado: Aceito ✅
+
+4 - Compara o simbolo e é menor que o buscado
+    Entrada: q1a11a1Rqf#q1a1a1Rqf$a11
+    Resultado: Erro ⚠️ (estado ERRO1)
+
+5 - Move para direita no fim da fita
+    Entrada: q1a1a1Rq11#q11a1a1Rqf$a1
+    Resultado: Erro ⚠️ (estado ERRO2)
+
+6 - Move para esquerda no inicio da fita
+    Entrada: q1a1a1Lq11#q11a1a1Rqf$a1
+    Resultado: Rejeita ✅
+
+7 - Não tem transição para o estado
+    Entrada: q11a1a1Rqf$a1
+    Resultado: Rejeita ✅
+
+7 - Não tem transição para o simbolo
+    Entrada: q1a11a1Rqf$a1
+    Resultado: Rejeita ✅
