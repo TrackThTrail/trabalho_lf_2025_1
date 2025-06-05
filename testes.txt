@@ -18,7 +18,7 @@
 
 5 - Move para direita no fim da fita
     Entrada: q1a1a1Rq11#q11a1a1Rqf$a1
-    Resultado: Erro ⚠️ (estado ERRO2)
+    Resultado: Aceito ✅
 
 6 - Move para esquerda no inicio da fita
     Entrada: q1a1a1Lq11#q11a1a1Rqf$a1
