@@ -3,8 +3,10 @@
     Resultado: Aceito ✅
 
 2 - 1 - Busca o estado e é menor que o buscado
-    Entrada: q11a1a1Rqf#q1a1a1Rq11$a1a1
-    Resultado: Erro ⚠️ (estado ERRO2)
+    Entrada: q11a1a1Rqf#q1a1a1Rq11$a1a1a1
+    Resultado: Aceito ✅
+    Entrada: q11a1a111Rqf#q1a1a111Rq11$a1a1a1 -> a111A1a1
+    Resultado: Resultado errado na fita -> a111a1a111 (foi para a direita 2 vezes?)
 
 3 - Compara o simbolo e é maior que o buscado
     Entrada: q1a1a1Rqf#q1a11a1Rqf$a1
@@ -29,3 +31,7 @@
 7 - Não tem transição para o simbolo
     Entrada: q1a11a1Rqf$a1
     Resultado: Rejeita ✅
+
+8 - Mover cabeçote para esquerda
+    Entrada: q1a1a1Rq11#q11a1a11Lq111#q111a1a111Rqf$a1a1a1
+        Resultado: Aceito ✅
