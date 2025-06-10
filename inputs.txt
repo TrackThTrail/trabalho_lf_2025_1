@@ -10,3 +10,7 @@ q1a11a1Rqf$a1
 q1a1a1Rq11#q11a1a11Lq111#q111a1a111Rqf$a1a1a1
 q1a1a1Lq11#q11ssRq111#q111a1a1Rqf$a1
 q1a1a1Rq11#q11bbRqf#q1ssRq11$a1
+
+q1a1a1Rq1#q1a11a11Lq11#q11a1a1Lq11#q11ssRq111#q111a1a11Rqf#q1bbRqf$
+q1a1a1Rq1#q1a11a11Lq11#q11a1a1Lq11#q11ssRq111#q111a1a11Rqf#q1bbRqf$a1a1a1a11
+q1a1a1Rq1#q1a11a11Lq11#q11a1a1Lq11#q11ssRq111#q111a1a11Rqf#q1bbRqf$a11a1
